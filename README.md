@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![acoustikue's github stats](https://github-readme-stats.vercel.app/api?username=acoustikue)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acoustikue)](https://github.com/acoustikue/github-readme-stats)
 
 <!--
 **acoustikue/acoustikue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
