@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-![acoustikue's github stats](https://github-readme-stats.vercel.app/api?username=acoustikue)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acoustikue)](https://github.com/acoustikue/github-readme-stats)
+<a href="https://github.com/acoustikue/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acoustikue&repo=github-readme-stats&show_icons=true" />
+</a>
+<a href="https://github.com/acoustikue/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acoustikue&repo=convoychat" />
+</a>
 
 <!--
 **acoustikue/acoustikue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
